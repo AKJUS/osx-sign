@@ -27,11 +27,11 @@
   "homepage": "https://github.com/electron/osx-sign",
   "dependencies": {
     "compare-version": "^0.1.2",
-    "debug": "^4.3.4",
-    "fs-extra": "^10.0.0",
-    "isbinaryfile": "^4.0.8",
-    "minimist": "^1.2.6",
-    "plist": "^3.0.5"
+    "debug": "^4.3.6",
+    "fs-extra": "^10.1.0",
+    "isbinaryfile": "^4.0.10",
+    "minimist": "^1.2.8",
+    "plist": "^3.1.0"
   },
   "devDependencies": {
     "@electron/get": "^2.0.2",
